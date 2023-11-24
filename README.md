@@ -15,39 +15,39 @@ Actuellement étudiant Bachelor IT à La Plateforme; je passionné par le dével
 - 💻 Compétence études : Python, HTML, CSS, Swift, Bash
 - 💻 Compétences en autodidacte : Python, C, C++
 - 🚀 Projets :
-    - [Projet Python 1](lien_vers_le_projet_1) : Projet en groupe - Jeux Raycasting 3D en python
-    - [Projet C 2](lien_vers_le_projet_2) : Projet en groupe - Sudoku avec interphace graphique jouable et solver backtracking
-    - [Projet C++ 3](lien_vers_le_projet_2) : Projet en groupe - Jeux roguelike inspiré de Space Invaders
-    - [Site Web CV 4](lien_vers_le_projet_3) : Site web contenant mon CV et un lien vers diffrents projets web réalisés dans le cadre de mes études
-    - [Portofolio 5](lien_vers_le_projet_3) : Tout simplement mon portofolio!
+    - [Projet Python](lien_vers_le_projet_1) : Projet en groupe - Jeux Raycasting 3D en python
+    - [Projet C](lien_vers_le_projet_2) : Projet en groupe - Sudoku avec interphace graphique jouable et solver backtracking
+    - [Projet C++](lien_vers_le_projet_2) : Projet en groupe - Jeux roguelike inspiré de Space Invaders
+    - [Site Web CV](lien_vers_le_projet_3) : Site web contenant mon CV et un lien vers diffrents projets web réalisés dans le cadre de mes études
+    - [Portofolio](lien_vers_le_projet_3) : Tout simplement mon portofolio!
 
 ## Détail des principaux projets
 
-# Projet Python 1
+# Projet Python
 
 Description plus détaillée du projet Python. Vous pouvez inclure des détails sur les fonctionnalités, les technologies utilisées et tout autre aspect pertinent.
 
 [![Image du projet](lien_vers_l_image)](lien_vers_le_projet_1)
 
-# Projet C 2
+# Projet C
 
 Description plus détaillée du projet C/C++. Mettez en avant les points clés et ce que vous avez appris en travaillant sur ce projet.
 
 [![Image du projet](lien_vers_l_image)](lien_vers_le_projet_2)
 
-# Projet C++ 3
+# Projet C++
 
 Description plus détaillée du projet C/C++. Mettez en avant les points clés et ce que vous avez appris en travaillant sur ce projet.
 
 [![Image du projet](lien_vers_l_image)](lien_vers_le_projet_2)
 
-# Site Web CV 4
+# Site Web CV
 
 Description plus détaillée du site web débutant. Expliquez les technologies utilisées et ce que vous avez réalisé dans ce projet.
 
 [![Image du projet](lien_vers_l_image)](lien_vers_le_projet_3)
 
-# Portofolio 4
+# Portofolio
 
 Description plus détaillée du site web débutant. Expliquez les technologies utilisées et ce que vous avez réalisé dans ce projet.
 
