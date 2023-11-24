@@ -3,6 +3,7 @@ Actuellement étudiant Bachelor IT à La Plateforme; je passionné par le dével
 
 
 ![oroitz lago ramos (1)](https://github.com/oroitz-lago-ramos/oroitz-lago-ramos/assets/125492839/0bf64552-6caf-4902-8fd0-ae2b2ce74b06)
+(Photo prise par Luc Van Der Meijden)
 
 
 
