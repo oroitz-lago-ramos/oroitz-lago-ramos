@@ -21,33 +21,33 @@ Actuellement étudiant Bachelor IT à La Plateforme; je passionné par le dével
     - [Site Web CV 4](lien_vers_le_projet_3) : Site web contenant mon CV et un lien vers diffrents projets web réalisés dans le cadre de mes études
     - [Portofolio 5](lien_vers_le_projet_3) : Tout simplement mon portofolio!
 
-## Projets notables
+## Détail des principaux projets
 
-### Projet Python 1
+# Projet Python 1
 
 Description plus détaillée du projet Python. Vous pouvez inclure des détails sur les fonctionnalités, les technologies utilisées et tout autre aspect pertinent.
 
 [![Image du projet](lien_vers_l_image)](lien_vers_le_projet_1)
 
-### Projet C 2
+# Projet C 2
 
 Description plus détaillée du projet C/C++. Mettez en avant les points clés et ce que vous avez appris en travaillant sur ce projet.
 
 [![Image du projet](lien_vers_l_image)](lien_vers_le_projet_2)
 
-### Projet C++ 3
+# Projet C++ 3
 
 Description plus détaillée du projet C/C++. Mettez en avant les points clés et ce que vous avez appris en travaillant sur ce projet.
 
 [![Image du projet](lien_vers_l_image)](lien_vers_le_projet_2)
 
-### Site Web CV 4
+# Site Web CV 4
 
 Description plus détaillée du site web débutant. Expliquez les technologies utilisées et ce que vous avez réalisé dans ce projet.
 
 [![Image du projet](lien_vers_l_image)](lien_vers_le_projet_3)
 
-### Portofolio 4
+# Portofolio 4
 
 Description plus détaillée du site web débutant. Expliquez les technologies utilisées et ce que vous avez réalisé dans ce projet.
 
