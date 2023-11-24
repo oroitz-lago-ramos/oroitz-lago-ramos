@@ -17,7 +17,7 @@ Actuellement étudiant Bachelor IT à La Plateforme; je passionné par le dével
 - 🚀 Projets :
     - [Projet Python 1](lien_vers_le_projet_1) : Projet en groupe - Jeux Raycasting 3D en python
     - [Projet C 2](lien_vers_le_projet_2) : Projet en groupe - Sudoku avec interphace graphique jouable et solver backtracking
-    - [Projet C++ 3](lien_vers_le_projet_2) : Projet en groupe - Jeux ROG inspiré de Space Invaders
+    - [Projet C++ 3](lien_vers_le_projet_2) : Projet en groupe - Jeux roguelike inspiré de Space Invaders
     - [Site Web CV 4](lien_vers_le_projet_3) : Site web contenant mon CV et un lien vers diffrents projets web réalisés dans le cadre de mes études
     - [Portofolio 5](lien_vers_le_projet_3) : Tout simplement mon portofolio!
 
