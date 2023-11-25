@@ -17,7 +17,7 @@ Actuellement étudiant Bachelor IT à La Plateforme; je passionné par le dével
 - 🚀 Projets :
     - [Projet Python](lien_vers_le_projet_1) : Projet en groupe - Jeux Raycasting 3D en python
     - [Projet C](lien_vers_le_projet_2) : Projet en groupe - Sudoku avec interphace graphique jouable et solver backtracking
-    - [Projet C++](lien_vers_le_projet_2) : Projet en groupe - Jeux roguelike inspiré de Space Invaders
+    - [Projet C++]([lien_vers_le_projet_2](https://github.com/oroitz-lago-ramos/SpaceLovers)) : Projet en groupe - Jeux roguelike inspiré de Space Invaders
     - [Site Web CV](lien_vers_le_projet_3) : Site web contenant mon CV et un lien vers diffrents projets web réalisés dans le cadre de mes études
     - [Portofolio](lien_vers_le_projet_3) : Tout simplement mon portofolio!
 
