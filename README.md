@@ -20,7 +20,7 @@ Actuellement étudiant Bachelor IT à La Plateforme; je passionné par le dével
     - [Projet C++](https://github.com/oroitz-lago-ramos/SpaceLovers) : Projet en groupe - Jeux roguelike inspiré de Space Invaders
     - [Site Web CV](lien_vers_le_projet_3) : Site web contenant mon CV et un lien vers diffrents projets web réalisés dans le cadre de mes études
     - [Portofolio](lien_vers_le_projet_3) : Tout simplement mon portofolio!
-
+<!--
 ## Détail des principaux projets
 
 # Projet Python
@@ -52,6 +52,7 @@ Description plus détaillée du site web débutant. Expliquez les technologies u
 Description plus détaillée du site web débutant. Expliquez les technologies utilisées et ce que vous avez réalisé dans ce projet.
 
 [![Image du projet](lien_vers_l_image)](lien_vers_le_projet_3)
+-->
 
 ## Contact
 
