@@ -15,11 +15,13 @@ Actuellement étudiant Bachelor IT à La Plateforme; je passionné par le dével
 - 💻 Compétence études : Python, HTML, CSS, Swift, Bash
 - 💻 Compétences en autodidacte : Python, C, C++
 - 🚀 Projets :
-    - [Projet Python](https://github.com/oroitz-lago-ramos/GameStudio) : Projet en groupe - Jeux Raycasting 3D en python
+    - [Projet Python](https://github.com/oroitz-lago-ramos/GameStudio) : Projet en groupe - Jeu Raycasting 3D en python
+    - [Projet Python](https://github.com/oroitz-lago-ramos/snake) : Projet solo - Snake
+    - [Projet Python](https://github.com/oroitz-lago-ramos/pokemon) : Projet en groupe - Pokemon Battle (en cours)
     - [Projet C](https://github.com/oroitz-lago-ramos/Sudoku_C) : Projet en groupe - Sudoku avec interphace graphique jouable et solver backtracking
-    - [Projet C++](https://github.com/oroitz-lago-ramos/SpaceLovers) : Projet en groupe - Jeux roguelike inspiré de Space Invaders
+    - [Projet C++](https://github.com/oroitz-lago-ramos/SpaceLovers) : Projet en groupe - Jeu roguelike inspiré de Space Invaders
     - [Site Web CV](https://oroitz-lago-ramos.students-laplateforme.io) : Site web contenant mon CV et un lien vers diffrents projets web réalisés dans le cadre de mes études
-    - [Portofolio](lien_vers_le_projet_3) : Tout simplement mon portofolio!
+    - [Portofolio](lien_vers_le_projet_3) : Tout simplement mon portofolio! (En construction)
 <!--
 ## Détail des principaux projets
 
