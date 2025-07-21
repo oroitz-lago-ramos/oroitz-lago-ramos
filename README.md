@@ -21,6 +21,7 @@ Actuellement étudiant Bachelor IT à La Plateforme en fin d'études, je suis pa
     - [Projet C](https://github.com/oroitz-lago-ramos/Sudoku_C) : Projet en groupe - Sudoku avec interface graphique jouable et solver backtracking
     - [Projet C++](https://github.com/oroitz-lago-ramos/SpaceLovers) : Projet en groupe - Jeu roguelike inspiré de Space Invaders
     - [Portofolio](lien_vers_le_projet_3) : Tout simplement mon portofolio! (En construction)
+    - [Moteur de Jeu + Jeu C++](lien_vers_le_moteur) : Création d'un moteur de jeu, DirectX11 sans librairies externes
 <!--
 ## Détail des principaux projets
 
