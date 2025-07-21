@@ -1,5 +1,5 @@
 ### Bonjour! 👋 Je suis Oroitz Lago Ramos
-Actuellement étudiant Bachelor IT à La Plateforme; je passionné par le développement logiciel, je suis à la recherche d'une opportunité d'alternance dans ce domaine.
+Actuellement étudiant Bachelor IT à La Plateforme en fin d'études, je suis passionné par le développement logiciel et systèmes immersifs, je suis à la recherche d'une opportunité d'alternance pour un master.
 
 
 ![oroitz lago ramos (1)](https://github.com/oroitz-lago-ramos/oroitz-lago-ramos/assets/125492839/0bf64552-6caf-4902-8fd0-ae2b2ce74b06)
@@ -11,9 +11,9 @@ Actuellement étudiant Bachelor IT à La Plateforme; je passionné par le dével
 ## À propos de moi
 
 - 🔭 Actuellement en études à La Plateforme
-- 🌱 En recherche d'une alternance en développement logiciel
-- 💻 Compétence études : Python, HTML, CSS, Swift, Bash
-- 💻 Compétences en autodidacte : Python, C, C++
+- 🌱 En recherche d'une alternance en développement de systèmes immersifs ou logiciel
+- 💻 Compétences études : C#, C++, Go, JS, Python, HTML, CSS, Swift, Bash
+- 💻 Compétences en autodidacte : C, Rust
 - 🚀 Projets :
     - [Projet Python](https://github.com/oroitz-lago-ramos/GameStudio) : Projet en groupe - Jeu Raycasting 3D en python
     - [Projet Python](https://github.com/oroitz-lago-ramos/snake) : Projet solo - Snake
@@ -62,16 +62,6 @@ Vous pouvez me contacter par email à oroitz.lago-ramos@laplateforme.io et retro
 N'hésitez pas à explorer les liens vers mes projets pour en savoir plus sur mes compétences et mon travail !
 <!--
 **oroitz-lago-ramos/oroitz-lago-ramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
 
